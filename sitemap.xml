@@ -63,4 +63,7 @@
 <url> <loc>https://yoeubi.github.io/operating-system</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/operating-system/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/network/컴퓨터통신망의 소개</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/database/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/database</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/operating-system/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
