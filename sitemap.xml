@@ -66,4 +66,6 @@
 <url> <loc>https://yoeubi.github.io/database/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/database</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/operating-system/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/c</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/c/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
