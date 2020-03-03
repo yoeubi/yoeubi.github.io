@@ -14,7 +14,6 @@
 <url> <loc>https://yoeubi.github.io/operating-system</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/unix</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/webpack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoeubi.github.io/algorithm/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/css/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/c/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/css/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -72,4 +71,6 @@
 <url> <loc>https://yoeubi.github.io/webpack/webpack-typescript-설정하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/webpack/webpack을-사용하는-이유</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/operating-system/3-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/algorithm/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/algorithm/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
