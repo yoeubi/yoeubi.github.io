@@ -49,7 +49,6 @@
 <url> <loc>https://yoeubi.github.io/network/Frontend-네트워크-기초-7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/network/Frontend-네트워크-기초-8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/network/Frontend-네트워크-기초-9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yoeubi.github.io/network/컴퓨터통신망의 소개</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/javascript/1-data-type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/javascript/11-data-type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/javascript/closure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -76,4 +75,5 @@
 <url> <loc>https://yoeubi.github.io/digital-logic-circuit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/digital-logic-circuit/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/algorithm/3-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/network/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
