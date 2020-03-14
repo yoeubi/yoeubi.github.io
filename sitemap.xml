@@ -80,4 +80,6 @@
 <url> <loc>https://yoeubi.github.io/network/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/c/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yoeubi.github.io/digital-logic-circuit/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/algorithm/4-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yoeubi.github.io/operating-system/4-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
